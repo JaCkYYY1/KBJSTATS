@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CollegeFootballStatsHub.com</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #ffffff;
+            color: #000000;
+            text-align: center;
+        }
+        /* Your preferred orange and blue color scheme */
+        h1, h2 {
+            color: #FFA500; /* Orange */
+        }
+        p {
+            color: #0000FF; /* Blue */
+        }
+        /* Add more styles as needed */
+    </style>
+</head>
+<body>
+    <header>
+        <h1>College Football Stats Hub</h1>
+    </header>
+    
+    <section id="stat-counter">
+        <h2>Player Stats</h2>
+        <p>Total Yards: [Dynamic value]</p>
+        <p>Touchdowns: [Dynamic value]</p>
+        <!-- Add more player stats as needed -->
+    </section>
+
+    <section id="team-history">
+        <h2>Team History</h2>
+        <p>Florida Gators, Florida State Seminoles, and Alabama</p>
+        <!-- Add more content about team history -->
+    </section>
+
+    <!-- Add more sections as needed -->
+
+    <footer>
+        <p>© 2023 Your Name | CollegeFootballStatsHub.com</p>
+    </footer>
+</body>
+</html>
